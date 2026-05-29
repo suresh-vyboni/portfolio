@@ -1,0 +1,27 @@
+/* this is comment */
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+}
+
+/*body{
+    background-color: aqua;
+    background-color: #422442;
+    background-color: rgb(119, 223, 247);
+}
+*/
+
+header{
+    background-color: (238, 234, 234);
+}
+
+hero{
+    background-color: aliceblue;
+    padding: 50px 20px;
+    text-align: center;
+    margin: auto;
+}
